@@ -1,2 +1,1 @@
-# react-native-nft-marketplace
-react-native-nft-marketplace
+# NFT Marketplace - Modern UI/UX React Native App
